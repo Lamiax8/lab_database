@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lab_database</string>
+    <string name="StudentName">Student Name</string>
+    <string name="StudentAge">Student Age</string>
+</resources>
